@@ -1,0 +1,5 @@
+baseURL = 'https://antunes.github.io/'
+languageCode = 'en-us'
+title = 'Leo Antunes Blog'
+theme = 'ananke'
+publishDir = "docs"
