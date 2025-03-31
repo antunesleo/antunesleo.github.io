@@ -1,5 +1,16 @@
 baseURL = 'https://antunes.github.io/'
 languageCode = 'en-us'
 title = 'Leo Antunes Blog'
-theme = 'ananke'
+theme = 'dario'
 publishDir = "docs"
+
+[params]
+  author = "Léo Antunes" # the author of the site
+  description = "Not just code. A pragmatic and social view on tech."
+
+  [params.homeInfoParams]
+    Title = "Not just code. A pragmatic and social view on tech." 
+    Content = """![Profile Image](https://avatars.githubusercontent.com/u/13929952?v=4)  
+[Github](https://github.com/antunesleo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[X](https://x.com/antunesleo_)
+    """
+    Description = "Not just code. A pragmatic and social view on tech."

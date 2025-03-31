@@ -1,3 +1,15 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/void"]
+	path = themes/void
+	url = https://github.com/Daucloud/hugo-theme-void
+[submodule "themes/nightfall"]
+	path = themes/nightfall
+	url = https://github.com/lordmathis/hugo-theme-nightfall
+[submodule "themes/not-much"]
+	path = themes/not-much
+	url = https://github.com/imgios/not-much.git
+[submodule "themes/dario"]
+	path = themes/dario
+	url = https://github.com/GrantBirki/dario
