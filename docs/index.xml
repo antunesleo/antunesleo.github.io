@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leo Antunes Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://antunesleo.github.io/</link>
     <description>Recent content on Leo Antunes Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 22:41:27 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 23:36:27 -0300</lastBuildDate>
+    <atom:link href="https://antunesleo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The fear ends today</title>
+      <link>https://antunesleo.github.io/posts/writers-block/</link>
+      <pubDate>Wed, 30 Jul 2025 23:36:27 -0300</pubDate>
+      <guid>https://antunesleo.github.io/posts/writers-block/</guid>
+      <description>&lt;p&gt;It’s been a while since my “Hello World” post. My intention was to publish something monthly or biweekly. It appears I’ve failed miserably. Not because I wasn’t interested in writing, but because I simply failed to do it. Why not write about my failures? Sounds like a paradox, but for me, this is how I’ll get to the root of the problem.&lt;/p&gt;&#xA;&lt;p&gt;First, I believe I’m very hard on myself and too strict about the topics I want to write about. For instance, I have opinions, facts and an entirely different view on microservices architecture. Because I’m a prolific thinker, I feel like it overloads my mind, and I end up blocking myself. Another point is that because of this prolific chain of thought, I usually need to  formulate and explain a lot of concepts, which increases the size of my final – and imaginary – text. I get uncomfortable in the process of writing. I end up not having enough time to write something as good as I imagined and just give up on it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://antunesleo.github.io/posts/hello-world/</link>
       <pubDate>Sun, 30 Mar 2025 22:41:27 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://antunesleo.github.io/posts/hello-world/</guid>
       <description>&lt;p&gt;It’s been a while since I felt the need to express my thoughts, questions, struggles, and findings.&lt;/p&gt;&#xA;&lt;p&gt;I’ve tried to adapt to social media formats, but I always end up feeling trapped by all the constraints that come with them. Even though I don’t care about views—and I actively dislike most of the enforced formats that dominate social platforms—adapting to the environment seems inevitable.&lt;/p&gt;&#xA;&lt;p&gt;We are only human, after all. That’s what we do: we adapt.&lt;/p&gt;</description>
     </item>
   </channel>
